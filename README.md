@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Nikhil Sahani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
