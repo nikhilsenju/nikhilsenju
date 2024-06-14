@@ -19,7 +19,7 @@
 <a href="https://instagram.com/nick_el_03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nikhil%20sahani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krishn-ick" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nick_el_03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nick_el_03" target="_blank"><img align="center" src="C:\Users\nikhi\Downloads\leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
