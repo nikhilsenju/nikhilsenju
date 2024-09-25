@@ -10,7 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning **Flutter, Data Structures and Algorithms, Competitive Programming**
-- 💬 Ask me about **Android, DSA**
+- 💬 Ask me about **Web, DSA**
 - 📫 How to reach me: **nikhilsahani242003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
