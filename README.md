@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dzjxhzxym/image/upload/v1762577071/WINDY_miqmco.jpg" alt="MasterHead" style="width:100%; max-width:1200px;"/>
+  <img src="https://res.cloudinary.com/dzjxhzxym/image/upload/v1762579048/Samurai_Fighting_Dragon_tey7na.jpg" alt="MasterHead" style="width:100%; max-width:1200px;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nikhil Sahani</h1>
