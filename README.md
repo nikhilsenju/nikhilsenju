@@ -1,4 +1,6 @@
-[![MasterHead](https://res.cloudinary.com/dzjxhzxym/image/upload/v1762577071/WINDY_miqmco.jpg)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://res.cloudinary.com/dzjxhzxym/image/upload/v1762577071/WINDY_miqmco.jpg" alt="MasterHead" style="width:100%; max-width:1200px;"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Nikhil Sahani</h1>
 <h3 align="center">A passionate Competitive Programmer and Web developer from India</h3>
