@@ -1,0 +1,32 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Trophy SVG
+        run: |
+          curl -o trophies.svg "https://github-profile-trophy.vercel.app/?username=nikhilsenju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"
+          # If the main instance fails, try alternative
+          if [ ! -s trophies.svg ] || grep -q "503\|502\|402" trophies.svg 2>/dev/null; then
+            curl -o trophies.svg "https://github-trophies.vercel.app/?username=nikhilsenju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p assets
+          mv trophies.svg assets/trophies.svg
+          git add assets/trophies.svg
+          git diff --staged --quiet || git commit -m "chore: update trophies" && git push
