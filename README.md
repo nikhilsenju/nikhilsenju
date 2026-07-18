@@ -1,49 +1,140 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dzjxhzxym/image/upload/v1762579048/Samurai_Fighting_Dragon_tey7na.jpg" alt="MasterHead" style="width:100%; max-width:1200px;"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nikhil Sahani</h1>
-<h3 align="center">A passionate Competitive Programmer and Web developer from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+Nikhil+Sahani+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsenju&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsenju" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=25&lines=%E2%80%9CI+never+go+back+on+my+word.+That+is+my+nindo%2C+my+ninja+way.%E2%80%9D+%E2%80%94+Naruto" alt="Naruto Quote" /></a>
 
-- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, Competitive Programming**
-- 💬 Ask me about **Web, DSA**
-- 📫 How to reach me: **nikhilsahani242003@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikhil-sahani-153947257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/nick_el_03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nikhil%20sahani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/krishn-ick" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nick_el_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rkroy/" height="30" width="40" /></a>
+<br/>
 
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-</p>
+I'm currently pursuing my B.Tech in Computer Science & Engineering at the National Institute of Technology, Silchar. My primary areas of interest include Competitive Programming and Full Stack Web Development — I strive to build solutions that are both algorithmically efficient and production-ready.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsenju&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-</p>
+- 🔭 &nbsp;Currently building full-stack applications with **Next.js** & **TypeScript**
+- 🧠 &nbsp;Solved **500+** problems across LeetCode, Codeforces & CodeChef
+- 📐 &nbsp;Exploring **System Design** and scalable architecture patterns
+- 🤝 &nbsp;Open to collaborating on meaningful open-source projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsenju&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsenju&theme=dark" alt="GitHub Streak" />
-</p>
+## Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-sahani-153947257/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/nick_el_03/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishn-ick)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikhil%20sahani)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilsahani242003@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nick_el_03)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/YOUR_USERNAME)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=e2b714)](https://monkeytype.com/profile/YOUR_USERNAME)
+[![Matiks](https://img.shields.io/badge/Matiks-4A90D9?style=for-the-badge&logoColor=white)](https://matiks.in/YOUR_USERNAME)
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=nikhilsenju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nikhilsenju&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsenju&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsenju&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF15&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/nikhilsenju/Intern"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilsenju&repo=Intern&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /></a>
+</td>
+<td>
+<a href="https://github.com/nikhilsenju/FYP"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilsenju&repo=FYP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/nikhilsenju/Leetcode"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilsenju&repo=Leetcode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /></a>
+</td>
+<td>
+<a href="https://github.com/nikhilsenju/Prep"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilsenju&repo=Prep&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /></a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nikhilsenju/nikhilsenju/output/github-snake-dark.svg" alt="Snake animation" width="95%"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilsenju&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=100&section=footer" width="100%"/>
+
+</div>
