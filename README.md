@@ -4,7 +4,9 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=25&lines=%E2%80%9CI+never+go+back+on+my+word.+That+is+my+nindo%2C+my+ninja+way.%E2%80%9D+%E2%80%94+Naruto" alt="Naruto Quote" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=850&height=25&lines=You+have+a+right+to+perform+your+prescribed+duties%2C+but+never+to+the+fruits+of+your+actions.+%E2%80%94+BG+2.47" />
+</a>
 
 </div>
 
