@@ -70,18 +70,6 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering at the Nation
 
 </div>
 
----
-
-## Trophies
-
-<div align="center">
-
-<img src="./assets/trophies.svg" alt="Trophies" width="95%"/>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
