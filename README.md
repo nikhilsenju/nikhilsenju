@@ -10,14 +10,16 @@
 
 <br/>
 
-## About Me
+## 👨‍💻 About Me
 
-I'm currently pursuing my B.Tech in Computer Science & Engineering at the National Institute of Technology, Silchar. My primary areas of interest include Competitive Programming and Full Stack Web Development — I strive to build solutions that are both algorithmically efficient and production-ready.
+Hi, I'm **Nikhil Sahani** 👋
 
-- 🔭 &nbsp;Currently building full-stack applications with **Next.js** & **TypeScript**
-- 🧠 &nbsp;Solved **500+** problems across LeetCode, Codeforces & CodeChef
-- 📐 &nbsp;Exploring **System Design** and scalable architecture patterns
-- 🤝 &nbsp;Open to collaborating on meaningful open-source projects
+I'm a Computer Science graduate from **NIT Silchar** who enjoys building software, solving problems, and continuously learning new technologies. I believe the best way to learn is by building projects, exploring new ideas, and writing code every day.
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, NIT Silchar
+- 💻 **Interests:** Backend Development • Competitive Programming • Open Source
+- 🌱 **Currently Learning:** Spring Boot • System Design • AI/ML • Cloud • Docker
+- 🎮 **Beyond Coding:** Cricket • Music • Gaming • Fitness . Touch Typing . Chess . Reading Books
 
 ---
 
