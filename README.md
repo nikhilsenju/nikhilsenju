@@ -32,7 +32,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering at the Nation
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilsahani242003@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nick_el_03)
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/YOUR_USERNAME)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=e2b714)](https://monkeytype.com/profile/YOUR_USERNAME)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=e2b714)](https://monkeytype.com/profile/NICK_EL_03)
 [![Matiks](https://img.shields.io/badge/Matiks-4A90D9?style=for-the-badge&logoColor=white)](https://matiks.in/YOUR_USERNAME)
 
 </div>
